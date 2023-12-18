@@ -4,4 +4,5 @@
 
 <img width="704" alt="image" src="https://github.com/heshida01/CLOP-hERG/assets/31440693/c10dfb80-dc71-41d8-a470-7e3c2a2629de">
 
-resource: [CLOP-hERG](https://drive.google.com/drive/folders/1ysH7cOSYr8ARBZ3BiKVGDDGmaIYyD3pP?usp=sharing)
+##### Resource: [CLOP-hERG](https://drive.google.com/drive/folders/1ysH7cOSYr8ARBZ3BiKVGDDGmaIYyD3pP?usp=sharing)
+##### Contact：s2130151@s.tsukuba.ac.jp
